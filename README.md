@@ -11,7 +11,7 @@ The environment uses real RF spectral scan data collected with QC9880 chips acro
 │   ├── Base_Agent.py              # Base agent class
 │   ├── Trainer.py                 # Training/testing loop
 │   └── DQN_agents/
-│       ├── HNP_DQN.py             # ★ Core: polynomial expansion + dueling
+│       ├── HNP_DQN.py             # Proposed model
 │       ├── DQN.py
 │       ├── DDQN.py
 │       ├── DQN_With_Fixed_Q_Targets.py
