@@ -72,7 +72,7 @@ In `results/Anti_Jam.py`:
 |---|---|
 | `RUN_MODE` | `"train"`, `"test"`, or `"both"` |
 | `jammer` | Jammer type: `"sweep"` or `"dynamic"` |
-| `BAND` | Frequency band: `"2.4G"` |
+| `BAND` | Frequency band: `"2.4G/5G"` |
 | `config.num_episodes_to_run` | Episodes per run |
 | `config.runs_per_agent` | Number of independent runs |
 | `config.use_GPU` | Set to `True` if CUDA is available |
