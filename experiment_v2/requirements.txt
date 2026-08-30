@@ -1,0 +1,11 @@
+# Numeric/data dependencies
+numpy>=2.2,<3
+pandas>=2.3,<3
+scipy>=1.15,<2
+
+# Install the platform-appropriate official PyTorch wheel.  The verified local
+# environment uses torch 2.11.0+cu130 for the RTX 5090.
+torch>=2.11,<2.12
+
+# Test dependency
+pytest>=9,<10

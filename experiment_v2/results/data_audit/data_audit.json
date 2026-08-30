@@ -1,0 +1,166 @@
+{
+  "protocol": {
+    "window_size": 32,
+    "stride": 1,
+    "rf_observation_dimension": 40,
+    "previous_action_dimension": 8,
+    "agent_state_dimension": 48,
+    "source_files_are_unique_across_declared_sets": true,
+    "scan_owners": {
+      "development_train": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "development_validation": [
+        7
+      ],
+      "within_condition_pilot": [
+        8,
+        9
+      ],
+      "distance_shift_evaluation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "power_shift_evaluation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  "sets": {
+    "development_train": {
+      "label": "train",
+      "distance_cm": 20,
+      "power_dbm": 10,
+      "scan_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_file_count": 56,
+      "trajectory_count": 56,
+      "window_count": 36790,
+      "observation_dimension": 40,
+      "all_features_finite": true,
+      "minimum_trajectory_windows": 656,
+      "maximum_trajectory_windows": 657
+    },
+    "development_validation": {
+      "label": "val",
+      "distance_cm": 20,
+      "power_dbm": 10,
+      "scan_ids": [
+        7
+      ],
+      "source_file_count": 8,
+      "trajectory_count": 8,
+      "window_count": 5256,
+      "observation_dimension": 40,
+      "all_features_finite": true,
+      "minimum_trajectory_windows": 657,
+      "maximum_trajectory_windows": 657
+    },
+    "within_condition_pilot": {
+      "label": "test",
+      "distance_cm": 20,
+      "power_dbm": 10,
+      "scan_ids": [
+        8,
+        9
+      ],
+      "source_file_count": 16,
+      "trajectory_count": 16,
+      "window_count": 10511,
+      "observation_dimension": 40,
+      "all_features_finite": true,
+      "minimum_trajectory_windows": 656,
+      "maximum_trajectory_windows": 657
+    },
+    "distance_shift_evaluation": {
+      "label": "ood",
+      "distance_cm": 40,
+      "power_dbm": 10,
+      "scan_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_file_count": 80,
+      "trajectory_count": 80,
+      "window_count": 52613,
+      "observation_dimension": 40,
+      "all_features_finite": true,
+      "minimum_trajectory_windows": 657,
+      "maximum_trajectory_windows": 658
+    },
+    "power_shift_evaluation": {
+      "label": "ood",
+      "distance_cm": 20,
+      "power_dbm": 5,
+      "scan_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_file_count": 80,
+      "trajectory_count": 80,
+      "window_count": 52592,
+      "observation_dimension": 40,
+      "all_features_finite": true,
+      "minimum_trajectory_windows": 657,
+      "maximum_trajectory_windows": 658
+    }
+  },
+  "snr_direction_train_only": {
+    "dataset_field": "snr_mean",
+    "jammed_channel_mean": 27.626157760620117,
+    "unjammed_channel_mean": -0.9249454140663147,
+    "argmin_selects_jammer_rate": 0.0,
+    "argmax_selects_jammer_rate": 0.9989399293286219,
+    "declared_quality_direction": "quality = -snr_mean (higher quality is better)"
+  },
+  "manifest": {
+    "row_count": 240,
+    "sha256": "a040de8327744337fad154cc6773e8c8387ac27b341765b7dfe2ca9a037d8853"
+  }
+}
