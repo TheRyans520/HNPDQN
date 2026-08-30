@@ -1,0 +1,13 @@
+{
+  "created_utc": "2026-08-10T11:32:23.723356+00:00",
+  "cuda_available": true,
+  "cuda_device": "NVIDIA GeForce RTX 5090 D v2",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+  "python": "3.10.12 (main, Jul 26 2023, 12:00:51) [MSC v.1929 64 bit (AMD64)]",
+  "scipy": "1.15.3",
+  "torch": "2.11.0+cu130",
+  "torch_cuda_build": "13.0"
+}

@@ -1,0 +1,220 @@
+{
+  "analysis_type": "descriptive checkpoint-weight audit only",
+  "branch_definition": {
+    "linear_h": "projection.0.weight[:, 0:64]",
+    "squared_h2": "projection.0.weight[:, 64:128]",
+    "upstream_tensor": "LayerNorm(concat(h, h^2)); ordering is preserved but normalization couples/scales the branches"
+  },
+  "by_jammer_mode": {
+    "random": {
+      "linear_frobenius_norm": {
+        "maximum": 3.5063864449452775,
+        "mean": 3.3620022969394263,
+        "minimum": 3.1314886704160427,
+        "n_records": 10,
+        "sample_sd": 0.11580163612639979
+      },
+      "linear_mean_absolute_outgoing_weight": {
+        "maximum": 0.023540319935179133,
+        "mean": 0.022108530634399236,
+        "minimum": 0.020874676010332896,
+        "n_records": 10,
+        "sample_sd": 0.0009240391233520742
+      },
+      "n_training_seeds": 10,
+      "paired_squared_minus_linear": {
+        "maximum": 0.010135055607512058,
+        "mean": 0.008011999993625993,
+        "minimum": 0.004696946844216971,
+        "n_records": 10,
+        "sample_sd": 0.0015843711987500615
+      },
+      "squared_frobenius_norm": {
+        "maximum": 4.609123697752988,
+        "mean": 4.417283233281468,
+        "minimum": 4.247111462973891,
+        "n_records": 10,
+        "sample_sd": 0.10912940149635947
+      },
+      "squared_mean_absolute_outgoing_weight": {
+        "maximum": 0.03141485048736319,
+        "mean": 0.030120530628025232,
+        "minimum": 0.027248630079591014,
+        "n_records": 10,
+        "sample_sd": 0.0012778239823267694
+      },
+      "training_seeds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "unit": "one HNP checkpoint per training seed"
+    },
+    "sweeping": {
+      "linear_frobenius_norm": {
+        "maximum": 3.5002719806097073,
+        "mean": 3.347703727780492,
+        "minimum": 3.232822324883036,
+        "n_records": 10,
+        "sample_sd": 0.0903284342408267
+      },
+      "linear_mean_absolute_outgoing_weight": {
+        "maximum": 0.023230294403692564,
+        "mean": 0.021363564906624256,
+        "minimum": 0.019530434569536237,
+        "n_records": 10,
+        "sample_sd": 0.0009312779647442094
+      },
+      "n_training_seeds": 10,
+      "paired_squared_minus_linear": {
+        "maximum": 0.010250962810909012,
+        "mean": 0.007946635023360626,
+        "minimum": 0.005220284389658426,
+        "n_records": 10,
+        "sample_sd": 0.0017037319254991662
+      },
+      "squared_frobenius_norm": {
+        "maximum": 4.616768678733202,
+        "mean": 4.44221907244031,
+        "minimum": 4.200062882099921,
+        "n_records": 10,
+        "sample_sd": 0.15074515991495221
+      },
+      "squared_mean_absolute_outgoing_weight": {
+        "maximum": 0.03146482465985153,
+        "mean": 0.029310199929984883,
+        "minimum": 0.026085301091702578,
+        "n_records": 10,
+        "sample_sd": 0.001848907803249671
+      },
+      "training_seeds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "unit": "one HNP checkpoint per training seed"
+    }
+  },
+  "checkpoint_record_count": 20,
+  "created_utc": "2026-08-10T12:26:31.238505+00:00",
+  "inferential_tests": "none; no p-value or performance association is claimed",
+  "interpretation_limit": "Descriptive raw-weight magnitude only. It is scale- and reparameterization-dependent, is coupled to learned LayerNorm and upstream activation scales, ignores activation frequency and sign cancellation, and is not causal feature importance, branch contribution, robustness, or interpretability evidence.",
+  "jammer_mode": "both",
+  "linear_frobenius_norm": {
+    "maximum": 3.5063864449452775,
+    "mean": 3.354853012359959,
+    "minimum": 3.1314886704160427,
+    "n_records": 20,
+    "sample_sd": 0.10134502040515858
+  },
+  "linear_mean_absolute_outgoing_weight": {
+    "maximum": 0.023540319935179133,
+    "mean": 0.02173604777051175,
+    "minimum": 0.019530434569536237,
+    "n_records": 20,
+    "sample_sd": 0.0009804674561744572
+  },
+  "model": "HNP-DQN",
+  "outcome_access": "No evaluation episode table, seed summary, or OOD policy outcome is read.",
+  "overall": {
+    "linear_frobenius_norm": {
+      "maximum": 3.5063864449452775,
+      "mean": 3.354853012359959,
+      "minimum": 3.1314886704160427,
+      "n_records": 20,
+      "sample_sd": 0.10134502040515858
+    },
+    "linear_mean_absolute_outgoing_weight": {
+      "maximum": 0.023540319935179133,
+      "mean": 0.02173604777051175,
+      "minimum": 0.019530434569536237,
+      "n_records": 20,
+      "sample_sd": 0.0009804674561744572
+    },
+    "n_seed_mode_records": 20,
+    "paired_squared_minus_linear": {
+      "maximum": 0.010250962810909012,
+      "mean": 0.007979317508493311,
+      "minimum": 0.004696946844216971,
+      "n_records": 20,
+      "sample_sd": 0.0016016073180144805
+    },
+    "squared_frobenius_norm": {
+      "maximum": 4.616768678733202,
+      "mean": 4.42975115286089,
+      "minimum": 4.200062882099921,
+      "n_records": 20,
+      "sample_sd": 0.12872020778486992
+    },
+    "squared_mean_absolute_outgoing_weight": {
+      "maximum": 0.03146482465985153,
+      "mean": 0.029715365279005056,
+      "minimum": 0.026085301091702578,
+      "n_records": 20,
+      "sample_sd": 0.0016017231995815188
+    },
+    "unit": "one training-seed x jammer-mode HNP checkpoint"
+  },
+  "paired_squared_minus_linear": {
+    "maximum": 0.010250962810909012,
+    "mean": 0.007979317508493311,
+    "minimum": 0.004696946844216971,
+    "n_records": 20,
+    "sample_sd": 0.0016016073180144805
+  },
+  "provenance": {
+    "checkpoint_configs_equal_frozen_run_config": true,
+    "checkpoint_set_sha256": "70e1fe5dc7db56b26d278e931e85bbd11ec2a4cead0f5e54cda75446afc5f307",
+    "device_is_only_formal_preset_exemption": true,
+    "models_source_path": "03_实验代码\\experiment_v2\\src\\models.py",
+    "models_source_sha256": "3f8322a50594125add3f4a997af2c5f5a8ae565f0016de5b3cc07e1d2a587986",
+    "run_config_sha256": [
+      "07cdbc94914a2d67eb2df705f3cda775cea26322a1de9b253050a5a1acadfe5f"
+    ]
+  },
+  "squared_frobenius_norm": {
+    "maximum": 4.616768678733202,
+    "mean": 4.42975115286089,
+    "minimum": 4.200062882099921,
+    "n_records": 20,
+    "sample_sd": 0.12872020778486992
+  },
+  "squared_mean_absolute_outgoing_weight": {
+    "maximum": 0.03146482465985153,
+    "mean": 0.029715365279005056,
+    "minimum": 0.026085301091702578,
+    "n_records": 20,
+    "sample_sd": 0.0016017231995815188
+  },
+  "state_dict_key": "projection.0.weight",
+  "training_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "verified_state_dict_shape": [
+    128,
+    128
+  ]
+}

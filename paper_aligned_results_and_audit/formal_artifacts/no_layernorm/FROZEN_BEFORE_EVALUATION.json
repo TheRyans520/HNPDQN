@@ -1,0 +1,268 @@
+{
+  "checkpoints": [
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed1.pt",
+      "sha256": "71cee4ca2531350ec75b5ebf744547d992cd6a9a13375a9d99c5942cedc634f0",
+      "train_seed": 1
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed2.pt",
+      "sha256": "69874b4a8b8fa55a855094647a1e3c8b9222d685073364009422d07d5125b5c5",
+      "train_seed": 2
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed3.pt",
+      "sha256": "8813d0d4ccaa70516cbaa2f5890232a3157faab312f774a83a6ebf236c58d32f",
+      "train_seed": 3
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed4.pt",
+      "sha256": "f1fd47b8f62f34ef52d1a72d595fb8350ed83fe20b272e88d671e4b251266a78",
+      "train_seed": 4
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed5.pt",
+      "sha256": "cc429f6e1a725f5df74a6e3617f7eac15062a5b1cb33dee7931f11ca25e3bd7c",
+      "train_seed": 5
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed6.pt",
+      "sha256": "b5cd09cf712e51e1201d3cf9c8dc00e4a43e51c19abb513281e4c1efdf5e9ca1",
+      "train_seed": 6
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed7.pt",
+      "sha256": "73db3a7200a3bc38755e53f2d770f39e223dbaefc400fb8f3a802767137aba49",
+      "train_seed": 7
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed8.pt",
+      "sha256": "93bec75494463277ca5d137b4a8295f5ada9b3b88771ea04e2ba7d2373883010",
+      "train_seed": 8
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed9.pt",
+      "sha256": "b82447a66c6fec3c1fde00574067a8953a40b9c8efa381495016ce033285fb07",
+      "train_seed": 9
+    },
+    {
+      "jammer_mode": "sweeping",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_sweeping_seed10.pt",
+      "sha256": "365694acc619a54467a29c594607039fba85cd1f2438d5b4b3843e30106aa2a3",
+      "train_seed": 10
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed1.pt",
+      "sha256": "5030215a5458259cd59f2ae806d30faa43fe4497928f39221a5b9eb25c6d34a1",
+      "train_seed": 1
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed2.pt",
+      "sha256": "cd40a63c78068cc2664e8a4c278c3aeb22c74115cda5c841e86bf57dadf50112",
+      "train_seed": 2
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed3.pt",
+      "sha256": "0bf308cdccd2504a707cbce618c73319ad3f0f1f65897470b4ac9c1805cc7d74",
+      "train_seed": 3
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed4.pt",
+      "sha256": "8a42754cd58b3978ada9b74a0569d5d0248915d26c70d905418ef1aa244db956",
+      "train_seed": 4
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed5.pt",
+      "sha256": "33308105c2a38d6ae2d91285dbe187a2ae515c215f965e387a35ae8bca81859f",
+      "train_seed": 5
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed6.pt",
+      "sha256": "d154185ce0a8162a64daa81d08ff93c3a37be6104e67fe85eb50e4fc3f00d17b",
+      "train_seed": 6
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed7.pt",
+      "sha256": "a2a0cc0d263a60f77a73f146b804aca46f5387192742572002584c266c5b1fd7",
+      "train_seed": 7
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed8.pt",
+      "sha256": "a17b2d60f3d787ca546068ce17b02fc6a3de1a3b77a63c105bef1de6fc70ee38",
+      "train_seed": 8
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed9.pt",
+      "sha256": "301a2b81abcdb8ce4343f7e5f0851b8c5b8e3c09198a09ce47fab3d60ac7ffb1",
+      "train_seed": 9
+    },
+    {
+      "jammer_mode": "random",
+      "model": "no_layernorm",
+      "path": "checkpoints\\no_layernorm_random_seed10.pt",
+      "sha256": "fae4196574b974650ef54b8b67fca0bf3d956b665e20946cdf4c3ee7a47b25e1",
+      "train_seed": 10
+    }
+  ],
+  "config_sha256": "cca08787ae9f2d87447ec71b2f0a35bbc9e11d9c06c93326c33df6f170bffa63",
+  "core_code_sha256": {
+    "run_experiment.py": "35d7c285518f9ee1777057e324aa06bf06564a67ecbec0f57dba7ad7e6531801",
+    "src/agent.py": "904b6b5108e7321cd36c5961747b637c890753c2992974a7c12439d324bc5f97",
+    "src/baselines.py": "e532c00723f13adfc76c14ef90f670b1dce194096d4fc83f353a5263e3101b16",
+    "src/config.py": "d600b6f15d122e0b9a806a24e2c31b663376a47b5bc54994bba164b5a98701c9",
+    "src/data.py": "a5100088f6fb4c7cee66d0a89e3725f225ec1658d4ccf6b33e1859380cc9f42d",
+    "src/env.py": "35ea46353b147533e27ea68e6f2b0d6f745fab2efca6823e09c13581368efcd1",
+    "src/models.py": "3f8322a50594125add3f4a997af2c5f5a8ae565f0016de5b3cc07e1d2a587986",
+    "src/runner.py": "e83772490a18e3c7346813afc38a07506e3d0c87be8df0f064bdb62c93c6071d",
+    "src/statistics.py": "d40b7dbb6ba1ee8da6ba33e92db4bb14b2c09083b4b8700c84da7b9363343770"
+  },
+  "frozen_utc": "2026-08-10T11:54:38.828306+00:00",
+  "normalizer": {
+    "fit_scan_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "fit_split": "train",
+    "mean": [
+      -0.24121735990047455,
+      1.149600625038147,
+      17.144941329956055,
+      1.1385087966918945,
+      -102.0,
+      2.416874647140503,
+      1.2770949602127075,
+      19.85666275024414,
+      1.2357789278030396,
+      -102.0,
+      2.65667724609375,
+      1.2917497158050537,
+      20.10196304321289,
+      1.2562029361724854,
+      -102.0,
+      2.699242115020752,
+      1.3080734014511108,
+      20.14764976501465,
+      1.268963098526001,
+      -102.0,
+      3.26859450340271,
+      1.345224142074585,
+      20.703502655029297,
+      1.3133376836776733,
+      -102.0,
+      4.581790924072266,
+      1.7473828792572021,
+      22.026098251342773,
+      1.80927312374115,
+      -102.0,
+      4.20582914352417,
+      1.569013237953186,
+      21.69573402404785,
+      1.6171035766601562,
+      -102.0,
+      1.5637493133544922,
+      1.2040261030197144,
+      19.102069854736328,
+      1.1653079986572266,
+      -102.0
+    ],
+    "rf_dim": 40,
+    "scale": [
+      13.556882858276367,
+      0.3508750796318054,
+      13.500916481018066,
+      1.1442533731460571,
+      1.0,
+      12.988130569458008,
+      0.42172834277153015,
+      12.969388008117676,
+      0.4381265938282013,
+      1.0,
+      12.821255683898926,
+      0.423414021730423,
+      12.807421684265137,
+      0.4370790421962738,
+      1.0,
+      12.37942123413086,
+      0.5133464336395264,
+      12.359485626220703,
+      0.5168513059616089,
+      1.0,
+      12.318790435791016,
+      0.4665103852748871,
+      12.300544738769531,
+      0.4780113995075226,
+      1.0,
+      11.400134086608887,
+      0.35573968291282654,
+      11.397086143493652,
+      1.5370349884033203,
+      1.0,
+      11.853593826293945,
+      0.6147534847259521,
+      11.806623458862305,
+      1.5297669172286987,
+      1.0,
+      11.354867935180664,
+      0.33445268869400024,
+      11.427865028381348,
+      0.34650281071662903,
+      1.0
+    ]
+  },
+  "predeclared_evaluation_schedule": {
+    "entry_count": 120,
+    "path": "PREDECLARED_EVALUATION_SCHEDULE.json",
+    "sha256": "00e96298c9347b37ba556f7f99c7b53dbefe51bd16e434b1dcbc4995cb07abc9"
+  },
+  "statement": "All models, hyperparameters, seeds, normalizer statistics, and threshold parameters were frozen before any policy-performance outcome was computed on the cross-configuration sets. Prior format/finiteness auditing did not inspect policy outcomes.",
+  "threshold": {
+    "fitted_splits": [
+      "train",
+      "val"
+    ],
+    "quantile": 0.5,
+    "value": 4.487882614135742
+  }
+}

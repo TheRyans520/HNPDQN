@@ -1,0 +1,1926 @@
+{
+  "entries": [
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 0,
+      "eval_seed": 1001,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 8,
+      "scan_replicate": 0,
+      "start_index": 141,
+      "trajectory_seed": 417139048,
+      "window_start": 141
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 1,
+      "eval_seed": 1002,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 9,
+      "scan_replicate": 0,
+      "start_index": 102,
+      "trajectory_seed": 616035509,
+      "window_start": 102
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 2,
+      "eval_seed": 1003,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 8,
+      "scan_replicate": 1,
+      "start_index": 171,
+      "trajectory_seed": 53462609,
+      "window_start": 171
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 3,
+      "eval_seed": 1004,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 9,
+      "scan_replicate": 1,
+      "start_index": 252,
+      "trajectory_seed": 54101657,
+      "window_start": 252
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 4,
+      "eval_seed": 1005,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 2,
+      "scan_id": 8,
+      "scan_replicate": 2,
+      "start_index": 246,
+      "trajectory_seed": 1164639609,
+      "window_start": 246
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 5,
+      "eval_seed": 1006,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 2,
+      "scan_id": 9,
+      "scan_replicate": 2,
+      "start_index": 381,
+      "trajectory_seed": 1755513553,
+      "window_start": 381
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 6,
+      "eval_seed": 1007,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 3,
+      "scan_id": 8,
+      "scan_replicate": 3,
+      "start_index": 414,
+      "trajectory_seed": 1968337963,
+      "window_start": 414
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 7,
+      "eval_seed": 1008,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 3,
+      "scan_id": 9,
+      "scan_replicate": 3,
+      "start_index": 540,
+      "trajectory_seed": 1011379023,
+      "window_start": 540
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 8,
+      "eval_seed": 1009,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 4,
+      "scan_id": 8,
+      "scan_replicate": 4,
+      "start_index": 307,
+      "trajectory_seed": 113591513,
+      "window_start": 307
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 9,
+      "eval_seed": 1010,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 4,
+      "scan_id": 9,
+      "scan_replicate": 4,
+      "start_index": 259,
+      "trajectory_seed": 1879995497,
+      "window_start": 259
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 10,
+      "eval_seed": 1011,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 5,
+      "scan_id": 8,
+      "scan_replicate": 5,
+      "start_index": 375,
+      "trajectory_seed": 35167692,
+      "window_start": 375
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 11,
+      "eval_seed": 1012,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 5,
+      "scan_id": 9,
+      "scan_replicate": 5,
+      "start_index": 26,
+      "trajectory_seed": 1950703055,
+      "window_start": 26
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 12,
+      "eval_seed": 1013,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 6,
+      "scan_id": 8,
+      "scan_replicate": 6,
+      "start_index": 346,
+      "trajectory_seed": 353600298,
+      "window_start": 346
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 13,
+      "eval_seed": 1014,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 6,
+      "scan_id": 9,
+      "scan_replicate": 6,
+      "start_index": 208,
+      "trajectory_seed": 430395198,
+      "window_start": 208
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 14,
+      "eval_seed": 1015,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 7,
+      "scan_id": 8,
+      "scan_replicate": 7,
+      "start_index": 417,
+      "trajectory_seed": 799679715,
+      "window_start": 417
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 15,
+      "eval_seed": 1016,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 7,
+      "scan_id": 9,
+      "scan_replicate": 7,
+      "start_index": 279,
+      "trajectory_seed": 1468889584,
+      "window_start": 279
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 16,
+      "eval_seed": 1017,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 8,
+      "scan_id": 8,
+      "scan_replicate": 8,
+      "start_index": 482,
+      "trajectory_seed": 498078359,
+      "window_start": 482
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 17,
+      "eval_seed": 1018,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 8,
+      "scan_id": 9,
+      "scan_replicate": 8,
+      "start_index": 300,
+      "trajectory_seed": 1988742220,
+      "window_start": 300
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 18,
+      "eval_seed": 1019,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 9,
+      "scan_id": 8,
+      "scan_replicate": 9,
+      "start_index": 185,
+      "trajectory_seed": 1321941717,
+      "window_start": 185
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 19,
+      "eval_seed": 1020,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 9,
+      "scan_id": 9,
+      "scan_replicate": 9,
+      "start_index": 160,
+      "trajectory_seed": 199798587,
+      "window_start": 160
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 0,
+      "eval_seed": 1001,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 8,
+      "scan_replicate": 0,
+      "start_index": 387,
+      "trajectory_seed": 1615885130,
+      "window_start": 387
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 1,
+      "eval_seed": 1002,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 9,
+      "scan_replicate": 0,
+      "start_index": 161,
+      "trajectory_seed": 1262577085,
+      "window_start": 161
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 2,
+      "eval_seed": 1003,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 8,
+      "scan_replicate": 1,
+      "start_index": 169,
+      "trajectory_seed": 702521214,
+      "window_start": 169
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 3,
+      "eval_seed": 1004,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 9,
+      "scan_replicate": 1,
+      "start_index": 360,
+      "trajectory_seed": 902639335,
+      "window_start": 360
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 4,
+      "eval_seed": 1005,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 2,
+      "scan_id": 8,
+      "scan_replicate": 2,
+      "start_index": 124,
+      "trajectory_seed": 76154530,
+      "window_start": 124
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 5,
+      "eval_seed": 1006,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 2,
+      "scan_id": 9,
+      "scan_replicate": 2,
+      "start_index": 40,
+      "trajectory_seed": 1029141750,
+      "window_start": 40
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 6,
+      "eval_seed": 1007,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 3,
+      "scan_id": 8,
+      "scan_replicate": 3,
+      "start_index": 326,
+      "trajectory_seed": 1927705321,
+      "window_start": 326
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 7,
+      "eval_seed": 1008,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 3,
+      "scan_id": 9,
+      "scan_replicate": 3,
+      "start_index": 91,
+      "trajectory_seed": 210097751,
+      "window_start": 91
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 8,
+      "eval_seed": 1009,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 4,
+      "scan_id": 8,
+      "scan_replicate": 4,
+      "start_index": 276,
+      "trajectory_seed": 251868149,
+      "window_start": 276
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 9,
+      "eval_seed": 1010,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 4,
+      "scan_id": 9,
+      "scan_replicate": 4,
+      "start_index": 182,
+      "trajectory_seed": 743759113,
+      "window_start": 182
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 10,
+      "eval_seed": 1011,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 5,
+      "scan_id": 8,
+      "scan_replicate": 5,
+      "start_index": 245,
+      "trajectory_seed": 1661024923,
+      "window_start": 245
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 11,
+      "eval_seed": 1012,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 5,
+      "scan_id": 9,
+      "scan_replicate": 5,
+      "start_index": 5,
+      "trajectory_seed": 1996882474,
+      "window_start": 5
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 12,
+      "eval_seed": 1013,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 6,
+      "scan_id": 8,
+      "scan_replicate": 6,
+      "start_index": 67,
+      "trajectory_seed": 903565045,
+      "window_start": 67
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 13,
+      "eval_seed": 1014,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 6,
+      "scan_id": 9,
+      "scan_replicate": 6,
+      "start_index": 443,
+      "trajectory_seed": 1027754834,
+      "window_start": 443
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 14,
+      "eval_seed": 1015,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 7,
+      "scan_id": 8,
+      "scan_replicate": 7,
+      "start_index": 102,
+      "trajectory_seed": 861703511,
+      "window_start": 102
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 15,
+      "eval_seed": 1016,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 7,
+      "scan_id": 9,
+      "scan_replicate": 7,
+      "start_index": 33,
+      "trajectory_seed": 1375372769,
+      "window_start": 33
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 16,
+      "eval_seed": 1017,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 8,
+      "scan_id": 8,
+      "scan_replicate": 8,
+      "start_index": 441,
+      "trajectory_seed": 224453087,
+      "window_start": 441
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 17,
+      "eval_seed": 1018,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 8,
+      "scan_id": 9,
+      "scan_replicate": 8,
+      "start_index": 555,
+      "trajectory_seed": 366451906,
+      "window_start": 555
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 18,
+      "eval_seed": 1019,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 9,
+      "scan_id": 8,
+      "scan_replicate": 9,
+      "start_index": 459,
+      "trajectory_seed": 797378554,
+      "window_start": 459
+    },
+    {
+      "condition": "within_condition_pilot",
+      "condition_role": "transparent_pilot",
+      "eval_index": 19,
+      "eval_seed": 1020,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 9,
+      "scan_id": 9,
+      "scan_replicate": 9,
+      "start_index": 170,
+      "trajectory_seed": 2025839567,
+      "window_start": 170
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 0,
+      "eval_seed": 1001,
+      "forced_reset_options": {
+        "scan_id": 0
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 0,
+      "scan_replicate": 0,
+      "start_index": 157,
+      "trajectory_seed": 987990634,
+      "window_start": 157
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 1,
+      "eval_seed": 1002,
+      "forced_reset_options": {
+        "scan_id": 1
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 1,
+      "scan_replicate": 0,
+      "start_index": 489,
+      "trajectory_seed": 1907311827,
+      "window_start": 489
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 2,
+      "eval_seed": 1003,
+      "forced_reset_options": {
+        "scan_id": 2
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 2,
+      "scan_replicate": 0,
+      "start_index": 57,
+      "trajectory_seed": 839648724,
+      "window_start": 57
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 3,
+      "eval_seed": 1004,
+      "forced_reset_options": {
+        "scan_id": 3
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 3,
+      "scan_replicate": 0,
+      "start_index": 295,
+      "trajectory_seed": 512424514,
+      "window_start": 295
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 4,
+      "eval_seed": 1005,
+      "forced_reset_options": {
+        "scan_id": 4
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 4,
+      "scan_replicate": 0,
+      "start_index": 319,
+      "trajectory_seed": 2140780444,
+      "window_start": 319
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 5,
+      "eval_seed": 1006,
+      "forced_reset_options": {
+        "scan_id": 5
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 5,
+      "scan_replicate": 0,
+      "start_index": 350,
+      "trajectory_seed": 449162016,
+      "window_start": 350
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 6,
+      "eval_seed": 1007,
+      "forced_reset_options": {
+        "scan_id": 6
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 6,
+      "scan_replicate": 0,
+      "start_index": 479,
+      "trajectory_seed": 444466813,
+      "window_start": 479
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 7,
+      "eval_seed": 1008,
+      "forced_reset_options": {
+        "scan_id": 7
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 7,
+      "scan_replicate": 0,
+      "start_index": 207,
+      "trajectory_seed": 1902567433,
+      "window_start": 207
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 8,
+      "eval_seed": 1009,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 8,
+      "scan_replicate": 0,
+      "start_index": 475,
+      "trajectory_seed": 1050505874,
+      "window_start": 475
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 9,
+      "eval_seed": 1010,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 9,
+      "scan_replicate": 0,
+      "start_index": 54,
+      "trajectory_seed": 1834562238,
+      "window_start": 54
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 10,
+      "eval_seed": 1011,
+      "forced_reset_options": {
+        "scan_id": 0
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 0,
+      "scan_replicate": 1,
+      "start_index": 10,
+      "trajectory_seed": 1239671522,
+      "window_start": 10
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 11,
+      "eval_seed": 1012,
+      "forced_reset_options": {
+        "scan_id": 1
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 1,
+      "scan_replicate": 1,
+      "start_index": 344,
+      "trajectory_seed": 1518304929,
+      "window_start": 344
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 12,
+      "eval_seed": 1013,
+      "forced_reset_options": {
+        "scan_id": 2
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 2,
+      "scan_replicate": 1,
+      "start_index": 117,
+      "trajectory_seed": 1293090980,
+      "window_start": 117
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 13,
+      "eval_seed": 1014,
+      "forced_reset_options": {
+        "scan_id": 3
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 3,
+      "scan_replicate": 1,
+      "start_index": 27,
+      "trajectory_seed": 85183077,
+      "window_start": 27
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 14,
+      "eval_seed": 1015,
+      "forced_reset_options": {
+        "scan_id": 4
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 4,
+      "scan_replicate": 1,
+      "start_index": 239,
+      "trajectory_seed": 580496121,
+      "window_start": 239
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 15,
+      "eval_seed": 1016,
+      "forced_reset_options": {
+        "scan_id": 5
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 5,
+      "scan_replicate": 1,
+      "start_index": 192,
+      "trajectory_seed": 141028541,
+      "window_start": 192
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 16,
+      "eval_seed": 1017,
+      "forced_reset_options": {
+        "scan_id": 6
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 6,
+      "scan_replicate": 1,
+      "start_index": 21,
+      "trajectory_seed": 620764656,
+      "window_start": 21
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 17,
+      "eval_seed": 1018,
+      "forced_reset_options": {
+        "scan_id": 7
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 7,
+      "scan_replicate": 1,
+      "start_index": 203,
+      "trajectory_seed": 1949039841,
+      "window_start": 203
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 18,
+      "eval_seed": 1019,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 8,
+      "scan_replicate": 1,
+      "start_index": 404,
+      "trajectory_seed": 1884768710,
+      "window_start": 404
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 19,
+      "eval_seed": 1020,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 9,
+      "scan_replicate": 1,
+      "start_index": 328,
+      "trajectory_seed": 1268569895,
+      "window_start": 328
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 0,
+      "eval_seed": 1001,
+      "forced_reset_options": {
+        "scan_id": 0
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 0,
+      "scan_replicate": 0,
+      "start_index": 171,
+      "trajectory_seed": 1863761630,
+      "window_start": 171
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 1,
+      "eval_seed": 1002,
+      "forced_reset_options": {
+        "scan_id": 1
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 1,
+      "scan_replicate": 0,
+      "start_index": 83,
+      "trajectory_seed": 1440760242,
+      "window_start": 83
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 2,
+      "eval_seed": 1003,
+      "forced_reset_options": {
+        "scan_id": 2
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 2,
+      "scan_replicate": 0,
+      "start_index": 252,
+      "trajectory_seed": 2028719777,
+      "window_start": 252
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 3,
+      "eval_seed": 1004,
+      "forced_reset_options": {
+        "scan_id": 3
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 3,
+      "scan_replicate": 0,
+      "start_index": 249,
+      "trajectory_seed": 2116395979,
+      "window_start": 249
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 4,
+      "eval_seed": 1005,
+      "forced_reset_options": {
+        "scan_id": 4
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 4,
+      "scan_replicate": 0,
+      "start_index": 50,
+      "trajectory_seed": 781444719,
+      "window_start": 50
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 5,
+      "eval_seed": 1006,
+      "forced_reset_options": {
+        "scan_id": 5
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 5,
+      "scan_replicate": 0,
+      "start_index": 199,
+      "trajectory_seed": 84674289,
+      "window_start": 199
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 6,
+      "eval_seed": 1007,
+      "forced_reset_options": {
+        "scan_id": 6
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 6,
+      "scan_replicate": 0,
+      "start_index": 549,
+      "trajectory_seed": 1702462152,
+      "window_start": 549
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 7,
+      "eval_seed": 1008,
+      "forced_reset_options": {
+        "scan_id": 7
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 7,
+      "scan_replicate": 0,
+      "start_index": 254,
+      "trajectory_seed": 1205030660,
+      "window_start": 254
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 8,
+      "eval_seed": 1009,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 8,
+      "scan_replicate": 0,
+      "start_index": 35,
+      "trajectory_seed": 1804282169,
+      "window_start": 35
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 9,
+      "eval_seed": 1010,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 9,
+      "scan_replicate": 0,
+      "start_index": 399,
+      "trajectory_seed": 887491908,
+      "window_start": 399
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 10,
+      "eval_seed": 1011,
+      "forced_reset_options": {
+        "scan_id": 0
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 0,
+      "scan_replicate": 1,
+      "start_index": 504,
+      "trajectory_seed": 1235327170,
+      "window_start": 504
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 11,
+      "eval_seed": 1012,
+      "forced_reset_options": {
+        "scan_id": 1
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 1,
+      "scan_replicate": 1,
+      "start_index": 341,
+      "trajectory_seed": 526841051,
+      "window_start": 341
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 12,
+      "eval_seed": 1013,
+      "forced_reset_options": {
+        "scan_id": 2
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 2,
+      "scan_replicate": 1,
+      "start_index": 386,
+      "trajectory_seed": 1311653248,
+      "window_start": 386
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 13,
+      "eval_seed": 1014,
+      "forced_reset_options": {
+        "scan_id": 3
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 3,
+      "scan_replicate": 1,
+      "start_index": 268,
+      "trajectory_seed": 1075653416,
+      "window_start": 268
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 14,
+      "eval_seed": 1015,
+      "forced_reset_options": {
+        "scan_id": 4
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 4,
+      "scan_replicate": 1,
+      "start_index": 414,
+      "trajectory_seed": 764312524,
+      "window_start": 414
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 15,
+      "eval_seed": 1016,
+      "forced_reset_options": {
+        "scan_id": 5
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 5,
+      "scan_replicate": 1,
+      "start_index": 134,
+      "trajectory_seed": 1627272199,
+      "window_start": 134
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 16,
+      "eval_seed": 1017,
+      "forced_reset_options": {
+        "scan_id": 6
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 6,
+      "scan_replicate": 1,
+      "start_index": 25,
+      "trajectory_seed": 59007623,
+      "window_start": 25
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 17,
+      "eval_seed": 1018,
+      "forced_reset_options": {
+        "scan_id": 7
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 7,
+      "scan_replicate": 1,
+      "start_index": 9,
+      "trajectory_seed": 1293574592,
+      "window_start": 9
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 18,
+      "eval_seed": 1019,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 8,
+      "scan_replicate": 1,
+      "start_index": 121,
+      "trajectory_seed": 1464755120,
+      "window_start": 121
+    },
+    {
+      "condition": "distance_shift_40cm_10dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 19,
+      "eval_seed": 1020,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 9,
+      "scan_replicate": 1,
+      "start_index": 4,
+      "trajectory_seed": 924013486,
+      "window_start": 4
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 0,
+      "eval_seed": 1001,
+      "forced_reset_options": {
+        "scan_id": 0
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 0,
+      "scan_replicate": 0,
+      "start_index": 37,
+      "trajectory_seed": 1472840482,
+      "window_start": 37
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 1,
+      "eval_seed": 1002,
+      "forced_reset_options": {
+        "scan_id": 1
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 1,
+      "scan_replicate": 0,
+      "start_index": 291,
+      "trajectory_seed": 696742286,
+      "window_start": 291
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 2,
+      "eval_seed": 1003,
+      "forced_reset_options": {
+        "scan_id": 2
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 2,
+      "scan_replicate": 0,
+      "start_index": 171,
+      "trajectory_seed": 1102347240,
+      "window_start": 171
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 3,
+      "eval_seed": 1004,
+      "forced_reset_options": {
+        "scan_id": 3
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 3,
+      "scan_replicate": 0,
+      "start_index": 432,
+      "trajectory_seed": 1102760004,
+      "window_start": 432
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 4,
+      "eval_seed": 1005,
+      "forced_reset_options": {
+        "scan_id": 4
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 4,
+      "scan_replicate": 0,
+      "start_index": 130,
+      "trajectory_seed": 1680621641,
+      "window_start": 130
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 5,
+      "eval_seed": 1006,
+      "forced_reset_options": {
+        "scan_id": 5
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 5,
+      "scan_replicate": 0,
+      "start_index": 268,
+      "trajectory_seed": 1759912088,
+      "window_start": 268
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 6,
+      "eval_seed": 1007,
+      "forced_reset_options": {
+        "scan_id": 6
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 6,
+      "scan_replicate": 0,
+      "start_index": 249,
+      "trajectory_seed": 1381723987,
+      "window_start": 249
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 7,
+      "eval_seed": 1008,
+      "forced_reset_options": {
+        "scan_id": 7
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 7,
+      "scan_replicate": 0,
+      "start_index": 254,
+      "trajectory_seed": 1246594574,
+      "window_start": 254
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 8,
+      "eval_seed": 1009,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 8,
+      "scan_replicate": 0,
+      "start_index": 533,
+      "trajectory_seed": 1935451956,
+      "window_start": 533
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 9,
+      "eval_seed": 1010,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 0,
+      "scan_id": 9,
+      "scan_replicate": 0,
+      "start_index": 348,
+      "trajectory_seed": 25761625,
+      "window_start": 348
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 10,
+      "eval_seed": 1011,
+      "forced_reset_options": {
+        "scan_id": 0
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 0,
+      "scan_replicate": 1,
+      "start_index": 504,
+      "trajectory_seed": 169217583,
+      "window_start": 504
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 11,
+      "eval_seed": 1012,
+      "forced_reset_options": {
+        "scan_id": 1
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 1,
+      "scan_replicate": 1,
+      "start_index": 472,
+      "trajectory_seed": 1646297722,
+      "window_start": 472
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 12,
+      "eval_seed": 1013,
+      "forced_reset_options": {
+        "scan_id": 2
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 2,
+      "scan_replicate": 1,
+      "start_index": 77,
+      "trajectory_seed": 1432109647,
+      "window_start": 77
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 13,
+      "eval_seed": 1014,
+      "forced_reset_options": {
+        "scan_id": 3
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 3,
+      "scan_replicate": 1,
+      "start_index": 57,
+      "trajectory_seed": 26118215,
+      "window_start": 57
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 14,
+      "eval_seed": 1015,
+      "forced_reset_options": {
+        "scan_id": 4
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 4,
+      "scan_replicate": 1,
+      "start_index": 156,
+      "trajectory_seed": 1010765984,
+      "window_start": 156
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 15,
+      "eval_seed": 1016,
+      "forced_reset_options": {
+        "scan_id": 5
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 5,
+      "scan_replicate": 1,
+      "start_index": 85,
+      "trajectory_seed": 845491145,
+      "window_start": 85
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 16,
+      "eval_seed": 1017,
+      "forced_reset_options": {
+        "scan_id": 6
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 6,
+      "scan_replicate": 1,
+      "start_index": 327,
+      "trajectory_seed": 208658099,
+      "window_start": 327
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 17,
+      "eval_seed": 1018,
+      "forced_reset_options": {
+        "scan_id": 7
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 7,
+      "scan_replicate": 1,
+      "start_index": 14,
+      "trajectory_seed": 1088812772,
+      "window_start": 14
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 18,
+      "eval_seed": 1019,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 8,
+      "scan_replicate": 1,
+      "start_index": 271,
+      "trajectory_seed": 674499526,
+      "window_start": 271
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 19,
+      "eval_seed": 1020,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "sweeping",
+      "replicate": 1,
+      "scan_id": 9,
+      "scan_replicate": 1,
+      "start_index": 85,
+      "trajectory_seed": 486066951,
+      "window_start": 85
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 0,
+      "eval_seed": 1001,
+      "forced_reset_options": {
+        "scan_id": 0
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 0,
+      "scan_replicate": 0,
+      "start_index": 123,
+      "trajectory_seed": 133813960,
+      "window_start": 123
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 1,
+      "eval_seed": 1002,
+      "forced_reset_options": {
+        "scan_id": 1
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 1,
+      "scan_replicate": 0,
+      "start_index": 192,
+      "trajectory_seed": 1494377427,
+      "window_start": 192
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 2,
+      "eval_seed": 1003,
+      "forced_reset_options": {
+        "scan_id": 2
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 2,
+      "scan_replicate": 0,
+      "start_index": 132,
+      "trajectory_seed": 1931731252,
+      "window_start": 132
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 3,
+      "eval_seed": 1004,
+      "forced_reset_options": {
+        "scan_id": 3
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 3,
+      "scan_replicate": 0,
+      "start_index": 57,
+      "trajectory_seed": 608679125,
+      "window_start": 57
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 4,
+      "eval_seed": 1005,
+      "forced_reset_options": {
+        "scan_id": 4
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 4,
+      "scan_replicate": 0,
+      "start_index": 92,
+      "trajectory_seed": 1458657028,
+      "window_start": 92
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 5,
+      "eval_seed": 1006,
+      "forced_reset_options": {
+        "scan_id": 5
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 5,
+      "scan_replicate": 0,
+      "start_index": 536,
+      "trajectory_seed": 2083628810,
+      "window_start": 536
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 6,
+      "eval_seed": 1007,
+      "forced_reset_options": {
+        "scan_id": 6
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 6,
+      "scan_replicate": 0,
+      "start_index": 300,
+      "trajectory_seed": 1214579121,
+      "window_start": 300
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 7,
+      "eval_seed": 1008,
+      "forced_reset_options": {
+        "scan_id": 7
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 7,
+      "scan_replicate": 0,
+      "start_index": 242,
+      "trajectory_seed": 1091294446,
+      "window_start": 242
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 8,
+      "eval_seed": 1009,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 8,
+      "scan_replicate": 0,
+      "start_index": 283,
+      "trajectory_seed": 141182350,
+      "window_start": 283
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 9,
+      "eval_seed": 1010,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 0,
+      "scan_id": 9,
+      "scan_replicate": 0,
+      "start_index": 368,
+      "trajectory_seed": 2053550929,
+      "window_start": 368
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 10,
+      "eval_seed": 1011,
+      "forced_reset_options": {
+        "scan_id": 0
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 0,
+      "scan_replicate": 1,
+      "start_index": 159,
+      "trajectory_seed": 1431505603,
+      "window_start": 159
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 11,
+      "eval_seed": 1012,
+      "forced_reset_options": {
+        "scan_id": 1
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 1,
+      "scan_replicate": 1,
+      "start_index": 503,
+      "trajectory_seed": 885622045,
+      "window_start": 503
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 12,
+      "eval_seed": 1013,
+      "forced_reset_options": {
+        "scan_id": 2
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 2,
+      "scan_replicate": 1,
+      "start_index": 75,
+      "trajectory_seed": 761696302,
+      "window_start": 75
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 13,
+      "eval_seed": 1014,
+      "forced_reset_options": {
+        "scan_id": 3
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 3,
+      "scan_replicate": 1,
+      "start_index": 277,
+      "trajectory_seed": 1675157497,
+      "window_start": 277
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 14,
+      "eval_seed": 1015,
+      "forced_reset_options": {
+        "scan_id": 4
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 4,
+      "scan_replicate": 1,
+      "start_index": 263,
+      "trajectory_seed": 1100467247,
+      "window_start": 263
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 15,
+      "eval_seed": 1016,
+      "forced_reset_options": {
+        "scan_id": 5
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 5,
+      "scan_replicate": 1,
+      "start_index": 144,
+      "trajectory_seed": 986369501,
+      "window_start": 144
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 16,
+      "eval_seed": 1017,
+      "forced_reset_options": {
+        "scan_id": 6
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 6,
+      "scan_replicate": 1,
+      "start_index": 385,
+      "trajectory_seed": 685607400,
+      "window_start": 385
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 17,
+      "eval_seed": 1018,
+      "forced_reset_options": {
+        "scan_id": 7
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 7,
+      "scan_replicate": 1,
+      "start_index": 80,
+      "trajectory_seed": 337967852,
+      "window_start": 80
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 18,
+      "eval_seed": 1019,
+      "forced_reset_options": {
+        "scan_id": 8
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 8,
+      "scan_replicate": 1,
+      "start_index": 358,
+      "trajectory_seed": 1336142743,
+      "window_start": 358
+    },
+    {
+      "condition": "power_shift_20cm_5dBm",
+      "condition_role": "cross_configuration",
+      "eval_index": 19,
+      "eval_seed": 1020,
+      "forced_reset_options": {
+        "scan_id": 9
+      },
+      "jammer_mode": "random",
+      "replicate": 1,
+      "scan_id": 9,
+      "scan_replicate": 1,
+      "start_index": 240,
+      "trajectory_seed": 750793385,
+      "window_start": 240
+    }
+  ],
+  "schema_version": 1,
+  "statement": "This forced scan/start schedule was materialized before any evaluation policy step or policy-performance outcome."
+}

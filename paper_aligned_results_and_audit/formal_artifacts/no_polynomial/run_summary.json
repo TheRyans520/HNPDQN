@@ -1,0 +1,76 @@
+{
+  "checkpoint_count": 20,
+  "conditions": [
+    {
+      "distance_cm": 20,
+      "name": "within_condition_pilot",
+      "observation_count": 10511,
+      "power_dbm": 10,
+      "role": "transparent_pilot",
+      "scan_ids": [
+        8,
+        9
+      ],
+      "source_file_count": 16,
+      "split_name": "test"
+    },
+    {
+      "distance_cm": 40,
+      "name": "distance_shift_40cm_10dBm",
+      "observation_count": 52613,
+      "power_dbm": 10,
+      "role": "cross_configuration",
+      "scan_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_file_count": 80,
+      "split_name": "ood"
+    },
+    {
+      "distance_cm": 20,
+      "name": "power_shift_20cm_5dBm",
+      "observation_count": 52592,
+      "power_dbm": 5,
+      "role": "cross_configuration",
+      "scan_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_file_count": 80,
+      "split_name": "ood"
+    }
+  ],
+  "evaluation_rows": 1980,
+  "files": {
+    "comparisons": "primary_comparisons.csv",
+    "costs": "model_costs.csv",
+    "evaluation": "evaluation_episodes.csv",
+    "evaluation_schedule": "evaluation_schedule.csv",
+    "freeze": "FROZEN_BEFORE_EVALUATION.json",
+    "predeclared_evaluation_schedule": "PREDECLARED_EVALUATION_SCHEDULE.json",
+    "seed_summary": "seed_summary.csv",
+    "training": "training_history.csv"
+  },
+  "mode": "formal",
+  "output_dir": "04_正式结果与审计\\formal_artifacts\\no_polynomial",
+  "primary_comparisons": 0,
+  "seed_summary_rows": 99,
+  "training_rows": 4000
+}

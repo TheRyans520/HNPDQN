@@ -1,0 +1,1 @@
+condition,jammer_mode,method_a,method_b,metric,n_pairs,mean_a,sd_a,mean_b,sd_b,mean_difference,ci95_low,ci95_high,effect_dz,p_exact,p_holm
