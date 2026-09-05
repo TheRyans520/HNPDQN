@@ -10,11 +10,25 @@ This repository accompanies the study **“Evaluation of a Hybrid Neural-Polynom
 
 ## Paper and citation
 
-The associated manuscript is:
+The associated manuscript is published in *Sensors*:
 
-> Yuxuan Pan, Ying Yan, Dingyi Sun, Zhenyu Li, Zhixuan Zhang, Jun Cai, Dapeng Chen, Qi Wu, and Zongyuan Shen. “Evaluation of a Hybrid Neural-Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed.” *Sensors*, 2026.
+> Yuxuan Pan, Ying Yan, Dingyi Sun, Zhenyu Li, Zhixuan Zhang, Jun Cai, Dapeng Chen, Qi Wu, and Zongyuan Shen. “Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed.” *Sensors* 2026, *26*(17), 5501. https://doi.org/10.3390/s26175501
 
-See [Citation](#citation) for a BibTeX entry. Add the final volume, issue, pages/article number, and DOI when those bibliographic details are available.
+You can cite this work using the following formats:
+
+**MDPI and ACS Style**
+Pan, Y.; Yan, Y.; Sun, D.; Li, Z.; Zhang, Z.; Cai, J.; Chen, D.; Wu, Q.; Shen, Z. Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed. *Sensors* **2026**, *26*, 5501. https://doi.org/10.3390/s26175501
+
+**AMA Style**
+Pan Y, Yan Y, Sun D, Li Z, Zhang Z, Cai J, Chen D, Wu Q, Shen Z. Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed. *Sensors*. 2026;26(17):5501. https://doi.org/10.3390/s26175501
+
+**Chicago/Turabian Style**
+Pan, Yuxuan, Ying Yan, Dingyi Sun, Zhenyu Li, Zhixuan Zhang, Jun Cai, Dapeng Chen, Qi Wu, and Zongyuan Shen. 2026. "Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed" *Sensors* 26, no. 17: 5501. https://doi.org/10.3390/s26175501
+
+**APA Style**
+Pan, Y., Yan, Y., Sun, D., Li, Z., Zhang, Z., Cai, J., Chen, D., Wu, Q., & Shen, Z. (2026). Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed. *Sensors*, *26*(17), 5501. https://doi.org/10.3390/s26175501
+
+See [Citation](#citation) for a BibTeX entry.
 
 ## Repository structure
 
