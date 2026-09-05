@@ -17,18 +17,21 @@ The associated manuscript is published in *Sensors*:
 You can cite this work using the following formats:
 
 **MDPI and ACS Style**
+
 Pan, Y.; Yan, Y.; Sun, D.; Li, Z.; Zhang, Z.; Cai, J.; Chen, D.; Wu, Q.; Shen, Z. Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed. *Sensors* **2026**, *26*, 5501. https://doi.org/10.3390/s26175501
 
 **AMA Style**
+
 Pan Y, Yan Y, Sun D, Li Z, Zhang Z, Cai J, Chen D, Wu Q, Shen Z. Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed. *Sensors*. 2026;26(17):5501. https://doi.org/10.3390/s26175501
 
 **Chicago/Turabian Style**
+
 Pan, Yuxuan, Ying Yan, Dingyi Sun, Zhenyu Li, Zhixuan Zhang, Jun Cai, Dapeng Chen, Qi Wu, and Zongyuan Shen. 2026. "Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed" *Sensors* 26, no. 17: 5501. https://doi.org/10.3390/s26175501
 
 **APA Style**
+
 Pan, Y., Yan, Y., Sun, D., Li, Z., Zhang, Z., Cai, J., Chen, D., Wu, Q., & Shen, Z. (2026). Evaluation of a Hybrid Neural–Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed. *Sensors*, *26*(17), 5501. https://doi.org/10.3390/s26175501
 
-See [Citation](#citation) for a BibTeX entry.
 
 ## Repository structure
 
@@ -220,14 +223,3 @@ This is a controlled RF measurement-replay spectrum-decision benchmark, not an e
 The eight `noise_mean` fields are retained for schema compatibility but are constant at −102 in the audited development data and become zero after standardization. The ten-seed inference is conditional on the 20 pre-fixed trajectories per condition and jammer mode; it does not estimate new-site or new-session population variability. The matched MLP controls parameter count and dueling-head type, but it is not a one-factor isolation of the polynomial branch, so interpretation should be considered together with the component ablations.
 
 The reported experiments do not directly validate radar detection, target tracking, waveform adaptation, radar-band operation, or hardware-level anti-jamming performance.
-
-## Citation
-
-```bibtex
-@article{HNP_DQN_2026,
-  title   = {Evaluation of a Hybrid Neural--Polynomial Deep Q-Network for Switching-Aware Spectrum Selection in a Controlled Radio-Frequency Measurement-Replay Testbed},
-  author  = {Pan, Yuxuan and Yan, Ying and Sun, Dingyi and Li, Zhenyu and Zhang, Zhixuan and Cai, Jun and Chen, Dapeng and Wu, Qi and Shen, Zongyuan},
-  journal = {Sensors},
-  year    = {2026}
-}
-```
